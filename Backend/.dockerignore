@@ -1,0 +1,10 @@
+# .dockerignore for backend
+*.pyc
+__pycache__
+.env*
+!.env.example
+.git
+.gitignore
+README.md
+Dockerfile
+*.log
